@@ -1,0 +1,1 @@
+from pycruisetray import PyCruiseTray
